@@ -3,6 +3,7 @@ package com.slokam.helthcare;
 import com.slokam.helthcare.entity.Doctor;
 import com.slokam.helthcare.entity.Patient;
 
+//hello world
 public class ComparatorMain {
 	public static void main(String[] args) {
 		ComparatorTest comp1 = new ComparatorTest();
